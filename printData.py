@@ -12,13 +12,13 @@ clear()
 toPrint = []
 outData = pd.read_csv("OutData.csv",dtype=object,index_col=0)
 
-team1 = "FIGHTING POTATOES"
+team1 = "BOOP!"
 team1 = team1.upper()
 test1 = outData.loc[team1]
 test1 = test1.to_frame()
 
 
-team2 = "KARMA"
+team2 = "HOLY JALAPENOS"
 team2 = team2.upper()
 test2 = outData.loc[team2]
 test2 = test2.to_frame()

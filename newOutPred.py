@@ -45,7 +45,9 @@ def main():
 
     train_X, train_y = get_tranq_data()
 
-    model = tf.keras.Sequential()
+    model = keras.Sequential()
+
+    model.add(Dense()
 
 
     # Layer's sizes
