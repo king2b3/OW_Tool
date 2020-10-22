@@ -1,0 +1,97 @@
+Tier,team1,team2,MapType,Map,Team1Score,Team2Score
+H,Doodles,Fighting Potatoes,Final,,2,1
+H,Pantheon,Nucular,Final,,3,1
+H,Delta Threat,Nocturnal,Final,,3,1
+H,Maelstrom,Holy Jalapenos,Final,,1,3
+H,Get Off My Lan,Void,Final,,2,3
+H,Slipstream,Modify,Final,,0,4
+H,Nucular,Doodles,Final,,0,4
+H,Fighting Potatoes,Holy Jalapenos,Final,,1,3
+H,Pantheon,Maelstrom,Final,,3,1
+H,Nocturnal,Void,Final,,3,1
+H,Delta Threat,Modify,Final,,0,4
+HH,Get Off My Lan,Slipstream,Final,,2,3
+H,Doodles,Holy Jalapenos,Final,,3,1
+H,Nucular,Maelstrom,Final,,4,0
+H,Fighting Potatoes,Pantheon,Final,,0,4
+H,Modify,Nocturnal,Final,,4,0
+H,Void,Slipstream,Final,,3,2
+H,Delta Threat,Get Off My Lan,Final,,1,3
+H,Maelstrom,Doodles,Final,,2,1
+H,Holy Jalapenos,Pantheon,Final,,1,3
+H,Nucular,Fighting Potatoes,Final,,1,3
+H,Nocturnal,Slipstream,Final,,2,1
+H,Modify,Get Off My Lan,Final,,4,0
+H,Void,Delta Threat,Final,,3,1
+H,Doodles,Pantheon,Final,,3,1
+H,Maelstrom,Fighting Potatoes,Final,,3,1
+H,Holy Jalapenos,Nucular,Final,,3,0
+H,Get Off My Lan,Nocturnal,Final,,0,4
+H,Slipstream,Delta Threat,Final,,2,3
+H,Modify,Void,Final,,4,0
+H,Phantasmal,Modify,Final,,0,4
+H,Royals,Doodles,Final,,3,1
+H,Jersey Boys,Holy Jalapenos,Final,,3,2
+H,Void,Paradise,Final,,4,0
+H,Fighting Potatoes,Rebirth,Final,,4,0
+H,Slipstream,Korage,Final,,2,1
+H,Doodles,Phantasmal,Final,,4,0
+H,Modify,Royals,Final,,2,3
+H,Holy Jalapenos,Paradise,Final,,0,4
+H,Void,Jersey Boys,Final,,1,3
+H,Fighting Potatoes,Korage,Final,,3,1
+H,Rebirth,Slipstream,Final,,0,4
+H,Phantasmal,Royals,Final,,1,3
+H,Doodles,Modify,Final,,0,3
+H,Holy Jalapenos,Void,Final,,0,4
+H,Paradise,Jersey Boys,Final,,0,3
+H,Slipstream,Fighting Potatoes,Final,,2,1
+H,Korage,Rebirth,Final,,4,0
+H,Phantasmal,Jetpack Cats,Final,,1,3
+H,Paradise,Boop!,Final,,2,3
+H,D2QTs,Ultraviolet,Final,,3,1
+H,Royals,Jersey Boys,Final,,4,0
+H,Flashbacks,Venom Cheese,Final,,4,0
+H,Excel,Miami Yikes,Final,,2,3
+H,Boop!,Phantasmal,Final,,3,0
+H,Jetpack Cats,Ultraviolet,Final,,4,0
+H,Paradise,D2QTs,Final,,1,3
+H,Royals,Venom Cheese,Final,,4,0
+H,Jersey Boys,Miami Yikes,Final,,1,3
+H,Flashbacks,Excel,Final,,2,1
+H,Ultraviolet,Phantasmal,Final,,0,4
+H,Boop!,D2QTs,Final,,0,3
+H,Jetpack Cats,Paradise,Final,,1,2
+H,Miami Yikes,Royals,Final,,1,3
+H,Venom Cheese,Excel,Final,,2,3
+H,Jersey Boys,Flashbacks,Final,,1,3
+H,Phantasmal,D2QTs,Final,,0,4
+H,Ultraviolet,Paradise,Final,,2,3
+H,Boop!,Jetpack Cats,Final,,0,4
+H,Excel,Royals,Final,,0,4
+H,Miami Yikes,Flashbacks,Final,,0,4
+H,Venom Cheese,Jersey Boys,Final,,1,3
+H,Phantasmal,Paradise,Final,,4,0
+H,Korage,Jetpack Cats,Final,,0,4
+H,Ultraviolet,Boop!,Final,,3,2
+H,Flashbacks,Royals,Final,,4,0
+H,Excel,Jersey Boys,Final,,0,4
+H,Miami Yikes,Venom Cheese,Final,,1,3
+H,Jetpack Cats,Nocturnal,Final,,0,4
+H,Flashbacks,Pantheon,Final,,4,0
+H,Delta Threat,Boop!,Final,,4,0
+H,Miami Yikes,Maelstrom,Final,,0,4
+H,Ultraviolet,Get Off My Lan,Final,,4,0
+H,Nucular,Venom Cheese,Final,,1,3
+H,Pantheon,Jetpack Cats,Final,,0,4
+H,Nocturnal,Flashbacks,Final,,0,4
+H,Boop!,Maelstrom,Final,,1,3
+H,Delta Threat,Miami Yikes,Final,,3,2
+H,Nucular,Ultraviolet,Final,,0,4
+H,Get Off My Lan,Venom Cheese,Final,,0,4
+H,Jetpack Cats,Flashbacks,Final,,1,3
+H,Pantheon,Nocturnal,Final,,1,3
+H,Miami Yikes,Boop!,Final,,2,1
+H,Delta Threat,Maelstrom,Final,,3,1
+H,Ultraviolet,Venom Cheese,Final,,4,0
+H,Nucular,Get Off My Lan,Final,,4,0

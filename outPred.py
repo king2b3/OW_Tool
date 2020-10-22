@@ -4,8 +4,8 @@ from time import sleep
 import timeit
 import random
 import numpy as np
-import tensorflow as tf
-from sklearn import datasets
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
 from sklearn.model_selection import train_test_split
 
 
@@ -38,9 +38,10 @@ def forwardprop(X, w_1, w_2):
     h    = tf.nn.sigmoid(tf.matmul(X, w_1))  # The \sigma function
     yhat = tf.matmul(h, w_2)  # The \varphi function
     return yhat
-
+'''
 def get_iris_data():
     """ Read the iris data set and split them into training and test sets """
+    from sklearn import datasets
     iris   = datasets.load_iris()
     data   = iris["data"]
     target = iris["target"]
@@ -54,7 +55,7 @@ def get_iris_data():
     num_labels = len(np.unique(target))
     all_Y = np.eye(num_labels)[target]  # One liner trick!
     return train_test_split(all_X, all_Y, test_size=0.33, random_state=RANDOM_SEED)
-
+'''
 def get_tranq_data():
     '''
         Reads in data from tranq output files for match prediction
@@ -135,7 +136,7 @@ def main():
 
     clear()
 
-    for epoch in range(1000):
+    for epoch in range(2000):
         # Train with each example
         for i in range(len(trainX)):
             sess.run(updates, feed_dict={X: trainX[i: i + 1], y: trainY[i: i + 1]})

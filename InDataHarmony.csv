@@ -1,0 +1,452 @@
+Tier,team1,team2,MapType,Map,Team1Score,Team2Score
+H,Doodles,Fighting Potatoes,Control,LIJIANG,0,2
+H,Doodles,Fighting Potatoes,Assault,TEMPLE,3,3
+H,Doodles,Fighting Potatoes,Hybrid,KINGS ROW,4,3
+H,Doodles,Fighting Potatoes,Escort,ROUTE 66,2,1
+H,Doodles,Fighting Potatoes,Final,,2,1
+H,Pantheon,Nucular,Control,LIJIANG,2,0
+H,Pantheon,Nucular,Assault,TEMPLE,1,0
+H,Pantheon,Nucular,Hybrid,KINGS ROW,5,4
+H,Pantheon,Nucular,Escort,DORADO,2,3
+H,Pantheon,Nucular,Final,,3,1
+H,Delta Threat,Nocturnal,Control,LIJIANG,2,0
+H,Delta Threat,Nocturnal,Assault,VOLSKAYA,0,1
+H,Delta Threat,Nocturnal,Hybrid,KINGS ROW,3,2
+H,Delta Threat,Nocturnal,Escort,DORADO,3,1
+H,Delta Threat,Nocturnal,Final,,3,1
+H,Maelstrom,Holy Jalapenos,Control,LIJIANG,0,2
+H,Maelstrom,Holy Jalapenos,Assault,VOLSKAYA,0,1
+H,Maelstrom,Holy Jalapenos,Hybrid,KINGS ROW,3,1
+H,Maelstrom,Holy Jalapenos,Escort,RIALTO,0,1
+H,Maelstrom,Holy Jalapenos,Final,,1,3
+H,Get Off My Lan,Void,Control,LIJIANG,0,2
+H,Get Off My Lan,Void,Assault,HANAMURA,2,0
+H,Get Off My Lan,Void,Hybrid,KINGS ROW,3,5
+H,Get Off My Lan,Void,Escort,DORADO,0,1
+H,Get Off My Lan,Void,Control,OASIS,0,2
+H,Get Off My Lan,Void,Final,,2,3
+H,Slipstream,Modify,Control,OASIS,0,2
+H,Slipstream,Modify,Assault,VOLSKAYA,1,2
+H,Slipstream,Modify,Hybrid,NUMBANI,1,2
+H,Slipstream,Modify,Escort,ROUTE 66,0,1
+H,Slipstream,Modify,Final,,0,4
+H,Nucular,Doodles,Control,LIJIANG,0,2
+H,Nucular,Doodles,Assault,HANAMURA,1,2
+H,Nucular,Doodles,Hybrid,KINGS ROW,0,3
+H,Nucular,Doodles,Escort,RIALTO,1,3
+H,Nucular,Doodles,Final,,0,4
+H,Fighting Potatoes,Holy Jalapenos,Control,ILIOS,0,2
+H,Fighting Potatoes,Holy Jalapenos,Assault,HANAMURA,1,2
+H,Fighting Potatoes,Holy Jalapenos,Hybrid,KINGS ROW,6,5
+H,Fighting Potatoes,Holy Jalapenos,Escort,RIALTO,1,3
+H,Fighting Potatoes,Holy Jalapenos,Final,,1,3
+H,Pantheon,Maelstrom,Control,ILIOS,0,2
+H,Pantheon,Maelstrom,Assault,HANAMURA,3,2
+H,Pantheon,Maelstrom,Hybrid,KINGS ROW,4,3
+H,Pantheon,Maelstrom,Escort,RIALTO,2,1
+H,Pantheon,Maelstrom,Final,,3,1
+H,Nocturnal,Void,Control,LIJIANG,1,2
+H,Nocturnal,Void,Assault,VOLSKAYA,2,0
+H,Nocturnal,Void,Hybrid,KINGS ROW,3,1
+H,Nocturnal,Void,Escort,RIALTO,1,0
+H,Nocturnal,Void,Final,,3,1
+H,Delta Threat,Modify,Control,OASIS,0,2
+H,Delta Threat,Modify,Assault,HANAMURA,1,2
+H,Delta Threat,Modify,Hybrid,KINGS ROW,0,1
+H,Delta Threat,Modify,Escort,RIALTO,0,1
+H,Delta Threat,Modify,Final,,0,4
+H,Get Off My Lan,Slipstream,Control,LIJIANG,0,2
+H,Get Off My Lan,Slipstream,Assault,HANAMURA,2,3
+H,Get Off My Lan,Slipstream,Hybrid,KINGS ROW,3,1
+H,Get Off My Lan,Slipstream,Escort,DORADO,1,0
+H,Get Off My Lan,Slipstream,Control,ILIOS,0,2
+H,Get Off My Lan,Slipstream,Final,,2,3
+H,Doodles,Holy Jalapenos,Control,ILIOS,2,0
+H,Doodles,Holy Jalapenos,Assault,HANAMURA,3,2
+H,Doodles,Holy Jalapenos,Hybrid,KINGS ROW,5,6
+H,Doodles,Holy Jalapenos,Escort,DORADO,3,2
+H,Doodles,Holy Jalapenos,Final,,3,1
+H,Nucular,Maelstrom,Control,LIJIANG,2,1
+H,Nucular,Maelstrom,Assault,HANAMURA,2,1
+H,Nucular,Maelstrom,Hybrid,KINGS ROW,2,0
+H,Nucular,Maelstrom,Escort,RIALTO,3,2
+H,Nucular,Maelstrom,Final,,4,0
+H,Fighting Potatoes,Pantheon,Control,ILIOS,0,2
+H,Fighting Potatoes,Pantheon,Assault,HANAMURA,1,2
+H,Fighting Potatoes,Pantheon,Hybrid,KINGS ROW,2,3
+H,Fighting Potatoes,Pantheon,Escort,ROUTE 66,1,2
+H,Fighting Potatoes,Pantheon,Final,,0,4
+H,Modify,Nocturnal,Control,LIJIANG,2,0
+H,Modify,Nocturnal,Assault,VOLSKAYA,2,0
+H,Modify,Nocturnal,Hybrid,HOLLYWOOD,3,0
+H,Modify,Nocturnal,Escort,RIALTO,1,0
+H,Modify,Nocturnal,Final,,4,0
+H,Void,Slipstream,Control,LIJIANG,2,0
+H,Void,Slipstream,Assault,VOLSKAYA,2,3
+H,Void,Slipstream,Hybrid,HOLLYWOOD,2,3
+H,Void,Slipstream,Escort,RIALTO,3,1
+H,Void,Slipstream,Control,OASIS,2,0
+H,Void,Slipstream,Final,,3,2
+H,Delta Threat,Get Off My Lan,Control,OASIS,2,0
+H,Delta Threat,Get Off My Lan,Assault,HANAMURA,4,5
+H,Delta Threat,Get Off My Lan,Hybrid,KINGS ROW,2,3
+H,Delta Threat,Get Off My Lan,Escort,DORADO,3,5
+H,Delta Threat,Get Off My Lan,Final,,1,3
+H,Maelstrom,Doodles,Control,OASIS,2,0
+H,Maelstrom,Doodles,Assault,HANAMURA,2,2
+H,Maelstrom,Doodles,Hybrid,KINGS ROW,1,3
+H,Maelstrom,Doodles,Escort,ROUTE 66,4,3
+H,Maelstrom,Doodles,Final,,2,1
+H,Holy Jalapenos,Pantheon,Control,ILIOS,0,2
+H,Holy Jalapenos,Pantheon,Assault,TEMPLE,2,1
+H,Holy Jalapenos,Pantheon,Hybrid,NUMBANI,0,3
+H,Holy Jalapenos,Pantheon,Escort,DORADO,2,3
+H,Holy Jalapenos,Pantheon,Final,,1,3
+H,Nucular,Fighting Potatoes,Control,LIJIANG,0,2
+H,Nucular,Fighting Potatoes,Assault,HANAMURA,2,0
+H,Nucular,Fighting Potatoes,Hybrid,KINGS ROW,2,3
+H,Nucular,Fighting Potatoes,Escort,RIALTO,1,2
+H,Nucular,Fighting Potatoes,Final,,1,3
+H,Nocturnal,Slipstream,Control,LIJIANG,1,2
+H,Nocturnal,Slipstream,Assault,TEMPLE,3,3
+H,Nocturnal,Slipstream,Hybrid,KINGS ROW,3,2
+H,Nocturnal,Slipstream,Escort,RIALTO,2,3
+H,Nocturnal,Slipstream,Final,,2,1
+H,Modify,Get Off My Lan,Control,ILIOS,2,0
+H,Modify,Get Off My Lan,Assault,HANAMURA,3,0
+H,Modify,Get Off My Lan,Hybrid,NUMBANI,3,0
+H,Modify,Get Off My Lan,Escort,DORADO,3,0
+H,Modify,Get Off My Lan,Final,,4,0
+H,Void,Delta Threat,Control,OASIS,2,1
+H,Void,Delta Threat,Assault,TEMPLE,1,0
+H,Void,Delta Threat,Hybrid,KINGS ROW,4,5
+H,Void,Delta Threat,Escort,RIALTO,4,3
+H,Void,Delta Threat,Final,,3,1
+H,Doodles,Pantheon,Control,ILIOS,0,2
+H,Doodles,Pantheon,Assault,HANAMURA,2,1
+H,Doodles,Pantheon,Hybrid,KINGS ROW,6,3
+H,Doodles,Pantheon,Escort,ROUTE 66,3,2
+H,Doodles,Pantheon,Final,,3,1
+H,Maelstrom,Fighting Potatoes,Control,LIJIANG,0,2
+H,Maelstrom,Fighting Potatoes,Assault,HANAMURA,2,1
+H,Maelstrom,Fighting Potatoes,Hybrid,KINGS ROW,4,3
+H,Maelstrom,Fighting Potatoes,Escort,RIALTO,2,1
+H,Maelstrom,Fighting Potatoes,Final,,3,1
+H,Holy Jalapenos,Nucular,Control,LIJIANG,2,0
+H,Holy Jalapenos,Nucular,Assault,HANAMURA,1,1
+H,Holy Jalapenos,Nucular,Hybrid,KINGS ROW,5,4
+H,Holy Jalapenos,Nucular,Escort,RIALTO,6,3
+H,Holy Jalapenos,Nucular,Final,,3,0
+H,Get Off My Lan,Nocturnal,Control,LIJIANG,0,2
+H,Get Off My Lan,Nocturnal,Assault,HANAMURA,1,2
+H,Get Off My Lan,Nocturnal,Hybrid,KINGS ROW,1,2
+H,Get Off My Lan,Nocturnal,Escort,ROUTE 66,0,1
+H,Get Off My Lan,Nocturnal,Final,,0,4
+H,Slipstream,Delta Threat,Control,LIJIANG,2,1
+H,Slipstream,Delta Threat,Assault,VOLSKAYA,2,1
+H,Slipstream,Delta Threat,Hybrid,KINGS ROW,2,3
+H,Slipstream,Delta Threat,Escort,RIALTO,1,3
+H,Slipstream,Delta Threat,Control,ILIOS,1,2
+H,Slipstream,Delta Threat,Final,,2,3
+H,Modify,Void,Control,LIJIANG,2,0
+H,Modify,Void,Assault,TEMPLE,3,2
+H,Modify,Void,Hybrid,KINGS ROW,4,3
+H,Modify,Void,Escort,RIALTO,3,0
+H,Modify,Void,Final,,4,0
+H,Phantasmal,Modify,Control,ILIOS,0,2
+H,Phantasmal,Modify,Assault,VOLSKAYA,1,2
+H,Phantasmal,Modify,Hybrid,EICHENWALDE,1,2
+H,Phantasmal,Modify,Escort,WATCHPOINT GIB,1,2
+H,Phantasmal,Modify,Final,,0,4
+H,Royals,Doodles,Final,,3,1
+H,Jersey Boys,Holy Jalapenos,Control,BUSAN,1,2
+H,Jersey Boys,Holy Jalapenos,Assault,VOLSKAYA,2,3
+H,Jersey Boys,Holy Jalapenos,Hybrid,HOLLYWOOD,4,3
+H,Jersey Boys,Holy Jalapenos,Escort,WATCHPOINT GIB,1,0
+H,Jersey Boys,Holy Jalapenos,Control,NEPAL,2,0
+H,Jersey Boys,Holy Jalapenos,Final,,3,2
+H,Void,Paradise,Control,NEPAL,2,0
+H,Void,Paradise,Assault,HANAMURA,2,1
+H,Void,Paradise,Hybrid,EICHENWALDE,3,0
+H,Void,Paradise,Escort,DORADO,3,0
+H,Void,Paradise,Final,,4,0
+H,Fighting Potatoes,Rebirth,Final,,4,0
+H,Slipstream,Korage,Control,BUSAN,2,0
+H,Slipstream,Korage,Assault,HANAMURA,0,0
+H,Slipstream,Korage,Hybrid,EICHENWALDE,4,3
+H,Slipstream,Korage,Escort,JUNKERTOWN,2,3
+H,Slipstream,Korage,Final,,2,1
+H,Doodles,Phantasmal,Control,ILIOS,2,0
+H,Doodles,Phantasmal,Assault,VOLSKAYA,3,2
+H,Doodles,Phantasmal,Hybrid,EICHENWALDE,3,1
+H,Doodles,Phantasmal,Escort,JUNKERTOWN,3,2
+H,Doodles,Phantasmal,Final,,4,0
+H,Modify,Royals,Control,BUSAN,1,2
+H,Modify,Royals,Assault,VOLSKAYA,1,2
+H,Modify,Royals,Hybrid,EICHENWALDE,3,1
+H,Modify,Royals,Escort,JUNKERTOWN,3,0
+H,Modify,Royals,Control,NEPAL,1,2
+H,Modify,Royals,Final,,2,3
+H,Holy Jalapenos,Paradise,Control,NEPAL,0,2
+H,Holy Jalapenos,Paradise,Assault,TEMPLE,0,1
+H,Holy Jalapenos,Paradise,Final,,0,4
+H,Void,Jersey Boys,Control,NEPAL,1,2
+H,Void,Jersey Boys,Assault,TEMPLE,1,2
+H,Void,Jersey Boys,Hybrid,EICHENWALDE,3,2
+H,Void,Jersey Boys,Escort,WATCHPOINT GIB,4,5
+H,Void,Jersey Boys,Final,,1,3
+H,Fighting Potatoes,Korage,Control,NEPAL,1,2
+H,Fighting Potatoes,Korage,Assault,TEMPLE,3,4
+H,Fighting Potatoes,Korage,Hybrid,EICHENWALDE,1,2
+H,Fighting Potatoes,Korage,Escort,JUNKERTOWN,3,2
+H,Fighting Potatoes,Korage,Final,,3,1
+H,Rebirth,Slipstream,Final,,0,4
+H,Phantasmal,Royals,Control,BUSAN,0,2
+H,Phantasmal,Royals,Assault,TEMPLE,5,6
+H,Phantasmal,Royals,Hybrid,HOLLYWOOD,3,2
+H,Phantasmal,Royals,Escort,DORADO,1,2
+H,Phantasmal,Royals,Final,,1,3
+H,Doodles,Modify,Control,ILIOS,0,2
+H,Doodles,Modify,Assault,HANAMURA,0,1
+H,Doodles,Modify,Hybrid,HOLLYWOOD,3,3
+H,Doodles,Modify,Escort,JUNKERTOWN,2,3
+H,Doodles,Modify,Final,,0,3
+H,Holy Jalapenos,Void,Control,BUSAN,0,2
+H,Holy Jalapenos,Void,Assault,VOLSKAYA,1,2
+H,Holy Jalapenos,Void,Hybrid,EICHENWALDE,1,2
+H,Holy Jalapenos,Void,Escort,WATCHPOINT GIB,0,3
+H,Holy Jalapenos,Void,Final,,0,4
+H,Paradise,Jersey Boys,Control,NEPAL,1,2
+H,Paradise,Jersey Boys,Assault,TEMPLE,2,2
+H,Paradise,Jersey Boys,Hybrid,EICHENWALDE,2,3
+H,Paradise,Jersey Boys,Escort,DORADO,0,1
+H,Paradise,Jersey Boys,Final,,0,3
+H,Slipstream,Fighting Potatoes,Control,NEPAL,0,2
+H,Slipstream,Fighting Potatoes,Assault,VOLSKAYA,2,2
+H,Slipstream,Fighting Potatoes,Hybrid,BLIZZARD WORLD,4,3
+H,Slipstream,Fighting Potatoes,Escort,JUNKERTOWN,3,2
+H,Slipstream,Fighting Potatoes,Final,,2,1
+H,Korage,Rebirth,Final,,4,0
+H,Phantasmal,Jetpack Cats,Control,LIJIANG,0,2
+H,Phantasmal,Jetpack Cats,Assault,VOLSKAYA,2,3
+H,Phantasmal,Jetpack Cats,Hybrid,KINGS ROW,3,4
+H,Phantasmal,Jetpack Cats,Escort,RIALTO,1,0
+H,Phantasmal,Jetpack Cats,Final,,1,3
+H,Paradise,Boop!,Control,LIJIANG,2,0
+H,Paradise,Boop!,Assault,HANAMURA,1,2
+H,Paradise,Boop!,Hybrid,KINGS ROW,2,1
+H,Paradise,Boop!,Escort,RIALTO,5,6
+H,Paradise,Boop!,Control,OASIS,0,2
+H,Paradise,Boop!,Final,,2,3
+H,D2QTs,Ultraviolet,Control,LIJIANG,0,2
+H,D2QTs,Ultraviolet,Assault,HANAMURA,2,0
+H,D2QTs,Ultraviolet,Hybrid,KINGS ROW,3,1
+H,D2QTs,Ultraviolet,Escort,DORADO,3,0
+H,D2QTs,Ultraviolet,Final,,3,1
+H,Royals,Jersey Boys,Control,ILIOS,2,0
+H,Royals,Jersey Boys,Assault,VOLSKAYA,2,1
+H,Royals,Jersey Boys,Hybrid,KINGS ROW,5,4
+H,Royals,Jersey Boys,Escort,RIALTO,2,1
+H,Royals,Jersey Boys,Final,,4,0
+H,Flashbacks,Venom Cheese,Control,OASIS,2,0
+H,Flashbacks,Venom Cheese,Assault,TEMPLE,2,1
+H,Flashbacks,Venom Cheese,Hybrid,KINGS ROW,3,2
+H,Flashbacks,Venom Cheese,Escort,RIALTO,2,1
+H,Flashbacks,Venom Cheese,Final,,4,0
+H,Excel,Miami Yikes,Control,LIJIANG,2,0
+H,Excel,Miami Yikes,Assault,HANAMURA,2,1
+H,Excel,Miami Yikes,Hybrid,HOLLYWOOD,4,5
+H,Excel,Miami Yikes,Escort,DORADO,4,5
+H,Excel,Miami Yikes,Control,OASIS,1,2
+H,Excel,Miami Yikes,Final,,2,3
+H,Boop!,Phantasmal,Control,LIJIANG,2,0
+H,Boop!,Phantasmal,Assault,VOLSKAYA,3,3
+H,Boop!,Phantasmal,Hybrid,KINGS ROW,5,4
+H,Boop!,Phantasmal,Escort,RIALTO,1,0
+H,Boop!,Phantasmal,Final,,3,0
+H,Jetpack Cats,Ultraviolet,Control,LIJIANG,2,0
+H,Jetpack Cats,Ultraviolet,Assault,HANAMURA,2,1
+H,Jetpack Cats,Ultraviolet,Hybrid,NUMBANI,3,2
+H,Jetpack Cats,Ultraviolet,Escort,DORADO,3,1
+H,Jetpack Cats,Ultraviolet,Final,,4,0
+H,Paradise,D2QTs,Control,ILIOS,0,2
+H,Paradise,D2QTs,Assault,VOLSKAYA,0,2
+H,Paradise,D2QTs,Hybrid,KINGS ROW,0,1
+H,Paradise,D2QTs,Escort,RIALTO,2,1
+H,Paradise,D2QTs,Final,,1,3
+H,Royals,Venom Cheese,Control,LIJIANG,2,0
+H,Royals,Venom Cheese,Assault,VOLSKAYA,2,1
+H,Royals,Venom Cheese,Hybrid,KINGS ROW,2,1
+H,Royals,Venom Cheese,Escort,ROUTE 66,2,1
+H,Royals,Venom Cheese,Final,,4,0
+H,Jersey Boys,Miami Yikes,Control,ILIOS,2,1
+H,Jersey Boys,Miami Yikes,Assault,HANAMURA,0,1
+H,Jersey Boys,Miami Yikes,Hybrid,KINGS ROW,2,3
+H,Jersey Boys,Miami Yikes,Escort,RIALTO,4,5
+H,Jersey Boys,Miami Yikes,Final,,1,3
+H,Flashbacks,Excel,Control,OASIS,1,2
+H,Flashbacks,Excel,Assault,HANAMURA,1,0
+H,Flashbacks,Excel,Hybrid,KINGS ROW,3,3
+H,Flashbacks,Excel,Escort,ROUTE 66,2,1
+H,Flashbacks,Excel,Final,,2,1
+H,Ultraviolet,Phantasmal,Control,ILIOS,0,2
+H,Ultraviolet,Phantasmal,Assault,TEMPLE,0,1
+H,Ultraviolet,Phantasmal,Hybrid,KINGS ROW,0,1
+H,Ultraviolet,Phantasmal,Escort,RIALTO,1,2
+H,Ultraviolet,Phantasmal,Final,,0,4
+H,Boop!,D2QTs,Control,OASIS,0,2
+H,Boop!,D2QTs,Assault,HANAMURA,1,2
+H,Boop!,D2QTs,Hybrid,KINGS ROW,3,3
+H,Boop!,D2QTs,Escort,RIALTO,2,3
+H,Boop!,D2QTs,Final,,0,3
+H,Jetpack Cats,Paradise,Control,LIJIANG,0,2
+H,Jetpack Cats,Paradise,Assault,VOLSKAYA,2,3
+H,Jetpack Cats,Paradise,Hybrid,KINGS ROW,3,3
+H,Jetpack Cats,Paradise,Escort,RIALTO,3,2
+H,Jetpack Cats,Paradise,Final,,1,2
+H,Miami Yikes,Royals,Control,LIJIANG,2,1
+H,Miami Yikes,Royals,Assault,VOLSKAYA,3,4
+H,Miami Yikes,Royals,Hybrid,HOLLYWOOD,1,2
+H,Miami Yikes,Royals,Escort,RIALTO,1,2
+H,Miami Yikes,Royals,Final,,1,3
+H,Venom Cheese,Excel,Control,OASIS,2,1
+H,Venom Cheese,Excel,Assault,TEMPLE,1,2
+H,Venom Cheese,Excel,Hybrid,KINGS ROW,1,3
+H,Venom Cheese,Excel,Escort,RIALTO,4,3
+H,Venom Cheese,Excel,Control,LIJIANG,0,2
+H,Venom Cheese,Excel,Final,,2,3
+H,Jersey Boys,Flashbacks,Control,LIJIANG,0,2
+H,Jersey Boys,Flashbacks,Assault,VOLSKAYA,0,1
+H,Jersey Boys,Flashbacks,Hybrid,KINGS ROW,5,4
+H,Jersey Boys,Flashbacks,Escort,ROUTE 66,3,4
+H,Jersey Boys,Flashbacks,Final,,1,3
+H,Phantasmal,D2QTs,Control,OASIS,0,2
+H,Phantasmal,D2QTs,Final,,0,4
+H,Ultraviolet,Paradise,Control,LIJIANG,1,2
+H,Ultraviolet,Paradise,Assault,VOLSKAYA,4,3
+H,Ultraviolet,Paradise,Hybrid,KINGS ROW,2,1
+H,Ultraviolet,Paradise,Escort,RIALTO,2,3
+H,Ultraviolet,Paradise,Control,OASIS,0,2
+H,Ultraviolet,Paradise,Final,,2,3
+H,Boop!,Jetpack Cats,Control,LIJIANG,1,2
+H,Boop!,Jetpack Cats,Assault,TEMPLE,1,2
+H,Boop!,Jetpack Cats,Hybrid,KINGS ROW,0,3
+H,Boop!,Jetpack Cats,Escort,RIALTO,1,3
+H,Boop!,Jetpack Cats,Final,,0,4
+H,Excel,Royals,Final,,0,4
+H,Miami Yikes,Flashbacks,Control,LIJIANG,1,2
+H,Miami Yikes,Flashbacks,Assault,HANAMURA,3,4
+H,Miami Yikes,Flashbacks,Hybrid,HOLLYWOOD,3,4
+H,Miami Yikes,Flashbacks,Escort,DORADO,1,2
+H,Miami Yikes,Flashbacks,Final,,0,4
+H,Venom Cheese,Jersey Boys,Control,LIJIANG,0,2
+H,Venom Cheese,Jersey Boys,Assault,VOLSKAYA,2,1
+H,Venom Cheese,Jersey Boys,Hybrid,KINGS ROW,1,3
+H,Venom Cheese,Jersey Boys,Escort,DORADO,0,1
+H,Venom Cheese,Jersey Boys,Final,,1,3
+H,Phantasmal,Paradise,Control,LIJIANG,2,0
+H,Phantasmal,Paradise,Assault,VOLSKAYA,2,0
+H,Phantasmal,Paradise,Hybrid,KINGS ROW,5,4
+H,Phantasmal,Paradise,Escort,ROUTE 66,1,0
+H,Phantasmal,Paradise,Final,,4,0
+H,Korage,Jetpack Cats,Final,,0,4
+H,Ultraviolet,Boop!,Control,LIJIANG,2,0
+H,Ultraviolet,Boop!,Assault,VOLSKAYA,1,2
+H,Ultraviolet,Boop!,Hybrid,KINGS ROW,3,4
+H,Ultraviolet,Boop!,Escort,RIALTO,3,1
+H,Ultraviolet,Boop!,Control,OASIS,2,1
+H,Ultraviolet,Boop!,Final,,3,2
+H,Flashbacks,Royals,Control,LIJIANG,2,0
+H,Flashbacks,Royals,Assault,TEMPLE,3,2
+H,Flashbacks,Royals,Hybrid,KINGS ROW,3,2
+H,Flashbacks,Royals,Escort,RIALTO,2,1
+H,Flashbacks,Royals,Final,,4,0
+H,Excel,Jersey Boys,Final,,0,4
+H,Miami Yikes,Venom Cheese,Control,OASIS,0,2
+H,Miami Yikes,Venom Cheese,Assault,HANAMURA,2,1
+H,Miami Yikes,Venom Cheese,Hybrid,NUMBANI,2,3
+H,Miami Yikes,Venom Cheese,Escort,RIALTO,2,3
+H,Miami Yikes,Venom Cheese,Final,,1,3
+H,Jetpack Cats,Nocturnal,Control,NEPAL,2,0
+H,Jetpack Cats,Nocturnal,Assault,HANAMURA,2,0
+H,Jetpack Cats,Nocturnal,Hybrid,HOLLYWOOD,3,1
+H,Jetpack Cats,Nocturnal,Escort,DORADO,3,1
+H,Jetpack Cats,Nocturnal,Final,,0,4
+H,Flashbacks,Pantheon,Control,ILIOS,2,1
+H,Flashbacks,Pantheon,Assault,HANAMURA,2,1
+H,Flashbacks,Pantheon,Hybrid,EICHENWALDE,4,3
+H,Flashbacks,Pantheon,Escort,JUNKERTOWN,5,4
+H,Flashbacks,Pantheon,Final,,4,0
+H,Delta Threat,Boop!,Final,,4,0
+H,Miami Yikes,Maelstrom,Final,,0,4
+H,Ultraviolet,Get Off My Lan,Control,BUSAN,2,0
+H,Ultraviolet,Get Off My Lan,Assault,HANAMURA,1,0
+H,Ultraviolet,Get Off My Lan,Hybrid,EICHENWALDE,6,4
+H,Ultraviolet,Get Off My Lan,Escort,JUNKERTOWN,1,0
+H,Ultraviolet,Get Off My Lan,Final,,4,0
+H,Nucular,Venom Cheese,Control,BUSAN,2,1
+H,Nucular,Venom Cheese,Assault,VOLSKAYA,1,2
+H,Nucular,Venom Cheese,Hybrid,HOLLYWOOD,1,2
+H,Nucular,Venom Cheese,Escort,WATCHPOINT GIB,0,1
+H,Nucular,Venom Cheese,Final,,1,3
+H,Pantheon,Jetpack Cats,Control,BUSAN,1,2
+H,Pantheon,Jetpack Cats,Assault,TEMPLE,0,2
+H,Pantheon,Jetpack Cats,Hybrid,EICHENWALDE,1,3
+H,Pantheon,Jetpack Cats,Escort,DORADO,2,3
+H,Pantheon,Jetpack Cats,Final,,0,4
+H,Nocturnal,Flashbacks,Control,NEPAL,0,2
+H,Nocturnal,Flashbacks,Assault,VOLSKAYA,0,1
+H,Nocturnal,Flashbacks,Hybrid,EICHENWALDE,1,2
+H,Nocturnal,Flashbacks,Escort,WATCHPOINT GIB,1,2
+H,Nocturnal,Flashbacks,Final,,0,4
+H,Boop!,Maelstrom,Control,NEPAL,0,2
+H,Boop!,Maelstrom,Assault,VOLSKAYA,0,1
+H,Boop!,Maelstrom,Hybrid,BLIZZARD WORLD,0,1
+H,Boop!,Maelstrom,Escort,JUNKERTOWN,3,0
+H,Boop!,Maelstrom,Final,,1,3
+H,Delta Threat,Miami Yikes,Control,BUSAN,2,1
+H,Delta Threat,Miami Yikes,Assault,HANAMURA,4,3
+H,Delta Threat,Miami Yikes,Hybrid,EICHENWALDE,1,2
+H,Delta Threat,Miami Yikes,Escort,DORADO,0,2
+H,Delta Threat,Miami Yikes,Control,NEPAL,2,0
+H,Delta Threat,Miami Yikes,Final,,3,2
+H,Nucular,Ultraviolet,Control,NEPAL,0,2
+H,Nucular,Ultraviolet,Assault,HANAMURA,1,2
+H,Nucular,Ultraviolet,Hybrid,BLIZZARD WORLD,3,4
+H,Nucular,Ultraviolet,Escort,WATCHPOINT GIB,1,2
+H,Nucular,Ultraviolet,Final,,0,4
+H,Get Off My Lan,Venom Cheese,Control,BUSAN,0,2
+H,Get Off My Lan,Venom Cheese,Assault,HANAMURA,1,2
+H,Get Off My Lan,Venom Cheese,Hybrid,EICHENWALDE,1,2
+H,Get Off My Lan,Venom Cheese,Escort,JUNKERTOWN,1,2
+H,Get Off My Lan,Venom Cheese,Final,,0,4
+H,Jetpack Cats,Flashbacks,Control,BUSAN,0,2
+H,Jetpack Cats,Flashbacks,Assault,VOLSKAYA,1,2
+H,Jetpack Cats,Flashbacks,Hybrid,EICHENWALDE,2,3
+H,Jetpack Cats,Flashbacks,Escort,JUNKERTOWN,5,4
+H,Jetpack Cats,Flashbacks,Final,,1,3
+H,Pantheon,Nocturnal,Control,BUSAN,2,0
+H,Pantheon,Nocturnal,Assault,HANAMURA,1,2
+H,Pantheon,Nocturnal,Hybrid,BLIZZARD WORLD,3,1
+H,Pantheon,Nocturnal,Escort,WATCHPOINT GIB,3,1
+H,Pantheon,Nocturnal,Final,,1,3
+H,Miami Yikes,Boop!,Control,BUSAN,2,1
+H,Miami Yikes,Boop!,Assault,VOLSKAYA,1,1
+H,Miami Yikes,Boop!,Hybrid,EICHENWALDE,1,0
+H,Miami Yikes,Boop!,Escort,WATCHPOINT GIB,0,3
+H,Miami Yikes,Boop!,Final,,2,1
+H,Delta Threat,Maelstrom,Control,NEPAL,1,2
+H,Delta Threat,Maelstrom,Assault,HANAMURA,3,2
+H,Delta Threat,Maelstrom,Hybrid,EICHENWALDE,1,0
+H,Delta Threat,Maelstrom,Escort,JUNKERTOWN,1,0
+H,Delta Threat,Maelstrom,Final,,3,1
+H,Ultraviolet,Venom Cheese,Control,BUSAN,2,0
+H,Ultraviolet,Venom Cheese,Assault,VOLSKAYA,2,1
+H,Ultraviolet,Venom Cheese,Hybrid,BLIZZARD WORLD,3,0
+H,Ultraviolet,Venom Cheese,Escort,WATCHPOINT GIB,3,0
+H,Ultraviolet,Venom Cheese,Final,,4,0
+H,Nucular,Get Off My Lan,Control,BUSAN,2,0
+H,Nucular,Get Off My Lan,Assault,HANAMURA,2,1
+H,Nucular,Get Off My Lan,Hybrid,BLIZZARD WORLD,3,2
+H,Nucular,Get Off My Lan,Escort,DORADO,3,2
+H,Nucular,Get Off My Lan,Final,,4,0

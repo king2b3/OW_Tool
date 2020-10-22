@@ -1,148 +1,216 @@
 Tier,team1,team2,MapType,Map,Team1Score,Team2Score
-D,PRODIGIOUS,BEER PRESSURE,Final,,3,2
-D,INSTALOCH,LEGION,Final,,0,4
-D,HECKIN HABANEROS,ELUSION,Final,,3,1
-D,TOUGH LUCK,AIRSTRIKE,Final,,1,3
-D,TAILWIND,H.HELLHOUNDS,Final,,2,1
-D,ECLIPSE,ONETRICKS,Final,,4,0
-D,KALIBUR,ALT F4,Final,,3,2
-D,MAELSTROM,OVERTIME,Final,,1,3
-D,PRODIGIOUS,LEGION,Final,,4,0
-D,BEER PRESSURE,ELUSION,Final,,3,1
-D,INSTALOCH,AIRSTRIKE,Final,,1,3
-D,HECKIN HABANEROS,TOUGH LUCK,Final,,0,4
-D,ONETRICKS,OVERTIME,Final,,0,4
-D,TAILWIND,MAELSTROM,Final, ,4,0
-D,ALT F4,H.HELLHOUNDS,Final,,3,2
-D,ECLIPSE,KALIBUR,Final,,0,4
-D,PRODIGIOUS,ELUSION,Final,,3,2
-D,LEGION,AIRSTRIKE,Final,,0,4
-D,BEER PRESSURE,TOUGH LUCK,Final,,2,3
-D,INSTALOCH,HECKIN HABANEROS,Final,,1,3
-D,H.HELLHOUNDS,MAELSTROM,Final,,3,1
-D,OVERTIME,KALIBUR,Final,,0,3
-D,ALT F4,ECLIPSE,Final,,1,3
-D,ONETRICKS,TAILWIND,Final,,0,4
-D,AIRSTRIKE,PRODIGIOUS,Final,,3,1
-D,ELUSION,TOUGH LUCK,Final,,2,3
-D,LEGION,HECKIN HABANEROS,Final,,0,4
-D,H.HELLHOUNDS,KALIBUR,Final,,0,4
-D,MAELSTROM,ECLIPSE,Final,,0,4
-D,OVERTIME,TAILWIND,Final,,0,4
-D,ALT F4,ONETRICKS,Final,,3,2
-D,TOUGH LUCK,PRODIGIOUS,Final,,3,1
-D,AIRSTRIKE,HECKIN HABANEROS,Final,,0,1
-D,ELUSION,INSTALOCH,Final,,1,3
-D,H.HELLHOUNDS,ECLIPSE,Final,,0,4
-D,KALIBUR,TAILWIND,Final,,1,2
-D,MAELSTROM,ONETRICKS,Final,,2,3
-D,OVERTIME,ALT F4,Final,,3,1
-T,ORBIT,HAVOC,Final,,0,4
-T,EXILES,MAXIMIZE,Final,,3,1
-T,WRAP IT UP ,MALEVOLENT,Final,,0,4
-T,ANIMUS,UNKOMMITTED,Final,,1,3
-T,VOLUME 51,SECOND CHANCE,Final,,0,4
-T,VENOMOUS,HOUSTON INLAWS,Final,,1,3
-T,POISONOUS,UNGENTLEMEN,Final,,4,0
-T,POGFISH,CORVIDITY,Final,,3,1
-T,HAVOC,MAXIMIZE,Final,,3,1
-T,ORBIT,MALEVOLENT,Final,,0,4
-T,EXILES,UNKOMMITTED,Final,,3,1
-T,VOLUME 51,HOUSTON INLAWS,Final,,1,3
-T,SECOND CHANCE,POISONOUS,Final,,3,1
-T,VENOMOUS,CORVIDITY,Final,,0,4
-T,UNGENTLEMEN,POGFISH,Final,,0,4
-T,HAVOC,MALEVOLENT,Final,,4,0
-T,MAXIMIZE,UNKOMMITTED,Final,,0,4
-T,ORBIT,ANIMUS,Final,,3,1
-T,EXILES,WRAP IT UP ,Final,,4,0
-T,POISONOUS,VOLUME 51,Final,,4,0
-T,HOUSTON INLAWS,CORVIDITY,Final,,4,0
-T,SECOND CHANCE,POGFISH,Final,,4,0
-T,VENOMOUS,REBELLION,Final,,0,4
-T,HAVOC,ANIMUS,Final,,4,0
-T,UNKOMMITTED,WRAP IT UP ,Final,,4,0
-T,MALEVOLENT,EXILES,Final,,1,2
-T,MAXIMIZE,ORBIT,Final,,0,4
-T,VOLUME 51,POGFISH,Final,,0,4
-T,CORVIDITY,REBELLION,Final,,1,3
-T,VENOMOUS,POISONOUS,Final,,1,3
-T,HOUSTON INLAWS,SECOND CHANCE,Final,,1,3
-T,WRAP IT UP ,HAVOC,Final,,0,4
-T,ANIMUS,EXILES,Final,,1,3
-T,UNKOMMITTED,ORBIT,Final,,3,2
-T,MALEVOLENT,MAXIMIZE,Final,,4,0
-T,VENOMOUS,VOLUME 51,Final,,0,4
-T,REBELLION,SECOND CHANCE,Final,,0,4
-T,POGFISH,HOUSTON INLAWS,Final,,1,3
-T,CORVIDITY,POISONOUS,Final,,3,0
-T,POGFISH,HAVOC,Final,,0,4
-T,EXILES,HOUSTON INLAWS,Final,,0,4
-T,UNKOMMITTED,SECOND CHANCE,Final,,0,4
-T,POISONOUS,MALEVOLENT,Final,,0,4
-T,ANIMUS,REBELLION,Final,,0,4
-T,MAXIMIZE,VENOMOUS,Final,,0,4
-T,LYNX ESPORTS,VOLUME 51,Final,,1,3
-T,HAVOC,HOUSTON INLAWS,Final,,2,0
-T,POGFISH,EXILES,Final,,3,1
-T,UNKOMMITTED,POISONOUS,Final,,4,0
-T,SECOND CHANCE,MALEVOLENT,Final,,3,1
-T,REBELLION,ORBIT,Final,,4,0
-T,CORVIDITY,ANIMUS,Final,,4,0
-T,MAXIMIZE,VOLUME 51,Final,,0,4
-T,EXILES,HAVOC,Final,,1,3
-T,HOUSTON INLAWS,POGFISH,Final,,0,4
-T,MALEVOLENT,UNKOMMITTED,Final,,2,3
-T,POISONOUS,SECOND CHANCE,Final,,3,2
-T,ORBIT,ANIMUS,Final,,4,0
-T,REBELLION,CORVIDITY,Final,,3,1
-T,LYNX ESPORTS,MAXIMIZE,Final,,4,0
-T,VOLUME 51,VENOMOUS,Final,,3,1
-H,MODIFY,FIGHTING POTATOES,Final,,3,2
-H,KARMA,COMETS,Final,,0,4
-H,GET OFF MY LAN,SPACE INVADERS,Final,,3,2
-H,DDOS,JETPACK CATS,Final,,3,2
-H,FLASHBACKS,BOOP!,Final,,0,4
-H,BORK!,HOLY JALAPENOS,Final,,0,4
-H,COMETS,MODIFY,Final,,3,1
-H,FIGHTING POTATOES,SPACE INVADERS,Final,,4,0
-H,KARMA,GET OFF MY LAN,Final,,0,4
-H,BOOP!,DDOS,Final,,4,0
-H,JETPACK CATS,HOLY JALAPENOS,Final,,3,2
-H,FLASHBACKS,BORK!,Final,,3,1
-H,MODIFY,PARADISE,Final,,3,1
-H,COMETS,GET OFF MY LAN,Final,,1,2
-H,FIGHTING POTATOES,KARMA,Final,,3,1
-H,DDOS,HOLY JALAPENOS,Final,,0,4
-H,BOOP!,BORK!,Final,,3,1
-H,FLASHBACKS,JETPACK CATS,Final,,3,0
-H,MODIFY,GET OFF MY LAN,Final,,4,0
-H,PARADISE,KARMA,Final,,2,3
-H,COMETS,FIGHTING POTATOES,Final,,3,2
-H,BORK!,DDOS,Final,,4,0
-H,HOLY JALAPENOS,FLASHBACKS,Final,,3,0
-H,BOOP!,JETPACK CATS,Final,,3,2
-H,KARMA,MODIFY,Final,,2,3
-H,GET OFF MY LAN,FIGHTING POTATOES,Final,,0,4
-H,PARADISE,COMETS,Final,,1,3
-H,DDOS,FLASHBACKS,Final,,1,3
-H,BORK!,JETPACK CATS,Final,,2,3
-H,HOLY JALAPENOS,BORK!,Final,,2,3
-H,COMETS,HOLY JALAPENOS,Final,,0,4
-H,MODIFY,BOOP!,Final,,2,3
-H,JETPACK CATS,FIGHTING POTATOES,Final,,3,0
-H,FLASHBACKS,GET OFF MY LAN,Final,,3,1
-H,PARADISE,BORK!,Final,,1,3
-H,KARMA,DDOS,Final,,3,1
-H,BOOP!,COMETS,Final,,4,0
-H,HOLY JALAPENOS,MODIFY,Final,,1,3
-H,JETPACK CATS,GET OFF MY LAN,Final,,4,0
-H,FIGHTING POTATOES,FLASHBACKS,Final,,0,4
-H,BORK!,DDOS,Final,,2,3
-H,PARADISE,KARMA,Final,,3,1
-H,COMETS,MODIFY,Final,,0,4
-H,BOOP!,HOLY JALAPENOS,Final,,0,4
-H,FLASHBACKS,JETPACK CATS,Final,,3,1
-H,GET OFF MY LAN,FIGHTING POTATOES,Final,,2,1
-H,BORK!,KARMA,Final,,2,1
-H,DDOS,PARADISE,Final,,1,3
+T,Tempo,Otaku Empire,Final,,1,3
+T,Lucid,Requiem,Final,,1,3
+T,Meta Rejects,Twilight Foxes,Final,,4,0
+T,Good Boys,Pogfish,Final,,0,4
+T,Clovers,Folklore Gaming,Final,,4,0
+T,Primal,Tempo,Final,,0,3
+T,Requiem,God Hand,Final,,1,3
+T,Otaku Empire,Dirt,Final,,4,0
+T,Twilight Foxes,Pogfish,Final,,0,4
+T,Arctic,Folklore Gaming,Final,,3,1
+T,Good Boys,Clovers,Final,,4,0
+T,Tempo,God Hand,Final,,2,3
+T,Primal,Dirt,Final,,3,1
+T,Requiem,No Name,Final,,4,0
+T,Otaku Empire,Lucid,Final,,3,1
+T,Meta Rejects,Pogfish,Final,,0,4
+T,Twilight Foxes,Clovers,Final,,1,3
+T,Arctic,Good Boys,Final,,3,2
+T,God Hand,Otaku Empire,Final,,3,1
+T,Primal,Requiem,Final,,0,4
+T,Pogfish,Clovers,Final,,4,0
+T,Orbit,Good Boys,Final,,2,3
+T,Dirt,Requiem,Final,,1,3
+T,Clovers,Meta Rejects,Final,,1,3
+T,Folklore Gaming,Good Boys,Final,,1,3
+T,Pogfish,Arctic,Final,,4,0
+T,Orbit,Twilight Foxes,Final,,4,0
+T,Requiem,Orbit,Final,,3,1
+T,Otaku Empire,Good Boys,Final,,4,0
+T,Tempo,Arctic,Final,,4,0
+T,Primal,Twilight Foxes,Final,,4,0
+T,Meta Rejects,Dirt,Final,,3,1
+T,Clovers,Folklore Gaming,Final,,3,1
+T,Pogfish,Tempo,Final,,1,3
+T,Good Boys,Requiem,Final,,1,3
+T,Arctic,Otaku Empire,Final,,0,4
+T,Clovers,Dirt,Final,,1,3
+T,Folklore Gaming,Twilight Foxes,Final,,1,3
+T,Tempo,Requiem,Final,,3,1
+T,Pogfish,Good Boys,Final,,1,3
+T,Orbit,Otaku Empire,Final,,1,3
+T,Primal,Clovers,Final,,4,0
+T,Meta Rejects,Twilight Foxes,Final,,0,4
+T,Folklore Gaming,Dirt,Final,,1,3
+D,Barbados,Gamma,Final,,4,0
+D,Lightspeed,Tempest,Final,,2,3
+D,Flying Lions,Heckin Habaneros,Final,,2,3
+D,Onetricks,Water Esports,Final,,4,0
+D,Countershaded,Tempest,Final,,3,1
+D,Barbados,Lightspeed,Final,,2,3
+D,Volume Zero,Heckin Habaneros,Final,,0,4
+D,Flying Lions,Onetricks,Final,,3,1
+D,Bird Hawk Society,Tempest,Final,,1,3
+D,Gamma,Lightspeed,Final,,1,3
+D,Countershaded,Barbados,Final,,0,3
+D,Heckin Habaneros,Onetricks,Final,,2,3
+D,Blinkstrike,Flying Lions,Final,,2,3
+D,Lightspeed,Bird Hawk Society,Final,,1,3
+D,Tempest,Barbados,Final,,3,1
+D,Onetricks,Volume Zero,Final,,1,3
+D,Not My Meta,Flying Lions,Final,,1,3
+D,Heckin Habaneros,Blinkstrike,Final,,3,1
+D,Bird Hawk Society,Barbados,Final,,3,2
+D,Lightspeed,Countershaded,Final,,4,0
+D,Tempest,Arctic Foxes,Final,,3,1
+D,Volume Zero,Flying Lions,Final,,3,1
+D,Onetricks,Blinkstrike,Final,,4,0
+D,Not My Meta,Heckin Habaneros,Final,,0,4
+D,Lightspeed,Seal Team Spuds,Final,,1,3
+D,Heckin Habaneros,Prodigious,Final,,3,0
+D,Joey Esports,Onetricks,Final,,2,1
+D,Lightspeed,Prodigious,Final,,4,0
+D,Seal Team Spuds,Heckin Habaneros,Final,,0,3
+D,Onetricks,Ignis,Final,,3,2
+D,Blinkstrike,VCG Esports,Final,,1,3
+D,Heckin Habaneros,Lightspeed,Final,,3,1
+D,Prodigious,Seal Team Spuds,Final,,0,4
+D,Ignis,Joey Esports,Final,,1,3
+D,Tailwind,Joey Esports,Final,,3,1
+D,Praxis,Seal Team Spuds,Final,,3,1
+D,Exodus,Ignis,Final,,4,0
+D,Dumpster Divers,Battalion,Final,,0,4
+D,VCG Esports,Prodigious,Final,,0,4
+D,Seal Team Spuds,Tailwind,Final,,1,2
+D,Joey Esports,Aces,Final,,0,4
+D,Praxis,Supernova,Final,,2,3
+D,Battalion,Exodus,Final,,0,4
+D,Ignis,Prodigious,Final,,0,4
+D,Dumpster Divers,VCG Esports,Final,,3,1
+D,Tailwind,Aces,Final,,4,0
+D,Seal Team Spuds,Supernova,Final,,3,2
+D,Praxis,Joey Esports,Final,,3,2
+D,Prodigious,Exodus,Final,,3,1
+D,Battalion,VCG Esports,Final,,4,0
+D,Ignis,Dumpster Divers,Final,,3,1
+D,Tailwind,Supernova,Final,,4,0
+D,Aces,Praxis,Final,,3,2
+D,Joey Esports,Seal Team Spuds,Final,,0,4
+D,Exodus,VCG Esports,Final,,4,0
+D,Prodigious,Dumpster Divers,Final,,4,0
+D,Praxis,Tailwind,Final,,0,4
+D,Supernova,Joey Esports,Final,,1,3
+D,Aces,Seal Team Spuds,Final,,3,1
+D,Dumpster Divers,Exodus,Final,,0,4
+D,Prodigious,Battalion,Final,,1,2
+D,Tailwind,Volume Zero,Final,,0,4
+D,Exodus,Tempest,Final,,1,3
+D,Praxis,Flying Lions,Final,,3,1
+D,Battalion,Barbados,Final,,2,1
+D,Dumpster Divers,Arctic Foxes,Final,,3,1
+D,Tailwind,Tempest,Final,,4,0
+D,Volume Zero,Exodus,Final,,2,3
+D,Praxis,Barbados,Final,,3,2
+D,Flying Lions,Battalion,Final,,2,3
+D,Supernova,Arctic Foxes,Final,,4,0
+D,Tailwind,Exodus,Final,,3,1
+D,Praxis,Battalion,Final,,3,1
+D,Barbados,Flying Lions,Final,,3,1
+D,Supernova,Dumpster Divers,Final,,3,1
+H,Doodles,Fighting Potatoes,Final,,2,1
+H,Pantheon,Nucular,Final,,3,1
+H,Delta Threat,Nocturnal,Final,,3,1
+H,Maelstrom,Holy Jalapenos,Final,,1,3
+H,Get Off My Lan,Void,Final,,2,3
+H,Slipstream,Modify,Final,,0,4
+H,Nucular,Doodles,Final,,0,4
+H,Fighting Potatoes,Holy Jalapenos,Final,,1,3
+H,Pantheon,Maelstrom,Final,,3,1
+H,Nocturnal,Void,Final,,3,1
+H,Delta Threat,Modify,Final,,0,4
+HH,Get Off My Lan,Slipstream,Final,,2,3
+H,Doodles,Holy Jalapenos,Final,,3,1
+H,Nucular,Maelstrom,Final,,4,0
+H,Fighting Potatoes,Pantheon,Final,,0,4
+H,Modify,Nocturnal,Final,,4,0
+H,Void,Slipstream,Final,,3,2
+H,Delta Threat,Get Off My Lan,Final,,1,3
+H,Maelstrom,Doodles,Final,,2,1
+H,Holy Jalapenos,Pantheon,Final,,1,3
+H,Nucular,Fighting Potatoes,Final,,1,3
+H,Nocturnal,Slipstream,Final,,2,1
+H,Modify,Get Off My Lan,Final,,4,0
+H,Void,Delta Threat,Final,,3,1
+H,Doodles,Pantheon,Final,,3,1
+H,Maelstrom,Fighting Potatoes,Final,,3,1
+H,Holy Jalapenos,Nucular,Final,,3,0
+H,Get Off My Lan,Nocturnal,Final,,0,4
+H,Slipstream,Delta Threat,Final,,2,3
+H,Modify,Void,Final,,4,0
+H,Phantasmal,Modify,Final,,0,4
+H,Royals,Doodles,Final,,3,1
+H,Jersey Boys,Holy Jalapenos,Final,,3,2
+H,Void,Paradise,Final,,4,0
+H,Fighting Potatoes,Rebirth,Final,,4,0
+H,Slipstream,Korage,Final,,2,1
+H,Doodles,Phantasmal,Final,,4,0
+H,Modify,Royals,Final,,2,3
+H,Holy Jalapenos,Paradise,Final,,0,4
+H,Void,Jersey Boys,Final,,1,3
+H,Fighting Potatoes,Korage,Final,,3,1
+H,Rebirth,Slipstream,Final,,0,4
+H,Phantasmal,Royals,Final,,1,3
+H,Doodles,Modify,Final,,0,3
+H,Holy Jalapenos,Void,Final,,0,4
+H,Paradise,Jersey Boys,Final,,0,3
+H,Slipstream,Fighting Potatoes,Final,,2,1
+H,Korage,Rebirth,Final,,4,0
+H,Phantasmal,Jetpack Cats,Final,,1,3
+H,Paradise,Boop!,Final,,2,3
+H,D2QTs,Ultraviolet,Final,,3,1
+H,Royals,Jersey Boys,Final,,4,0
+H,Flashbacks,Venom Cheese,Final,,4,0
+H,Excel,Miami Yikes,Final,,2,3
+H,Boop!,Phantasmal,Final,,3,0
+H,Jetpack Cats,Ultraviolet,Final,,4,0
+H,Paradise,D2QTs,Final,,1,3
+H,Royals,Venom Cheese,Final,,4,0
+H,Jersey Boys,Miami Yikes,Final,,1,3
+H,Flashbacks,Excel,Final,,2,1
+H,Ultraviolet,Phantasmal,Final,,0,4
+H,Boop!,D2QTs,Final,,0,3
+H,Jetpack Cats,Paradise,Final,,1,2
+H,Miami Yikes,Royals,Final,,1,3
+H,Venom Cheese,Excel,Final,,2,3
+H,Jersey Boys,Flashbacks,Final,,1,3
+H,Phantasmal,D2QTs,Final,,0,4
+H,Ultraviolet,Paradise,Final,,2,3
+H,Boop!,Jetpack Cats,Final,,0,4
+H,Excel,Royals,Final,,0,4
+H,Miami Yikes,Flashbacks,Final,,0,4
+H,Venom Cheese,Jersey Boys,Final,,1,3
+H,Phantasmal,Paradise,Final,,4,0
+H,Korage,Jetpack Cats,Final,,0,4
+H,Ultraviolet,Boop!,Final,,3,2
+H,Flashbacks,Royals,Final,,4,0
+H,Excel,Jersey Boys,Final,,0,4
+H,Miami Yikes,Venom Cheese,Final,,1,3
+H,Jetpack Cats,Nocturnal,Final,,0,4
+H,Flashbacks,Pantheon,Final,,4,0
+H,Delta Threat,Boop!,Final,,4,0
+H,Miami Yikes,Maelstrom,Final,,0,4
+H,Ultraviolet,Get Off My Lan,Final,,4,0
+H,Nucular,Venom Cheese,Final,,1,3
+H,Pantheon,Jetpack Cats,Final,,0,4
+H,Nocturnal,Flashbacks,Final,,0,4
+H,Boop!,Maelstrom,Final,,1,3
+H,Delta Threat,Miami Yikes,Final,,3,2
+H,Nucular,Ultraviolet,Final,,0,4
+H,Get Off My Lan,Venom Cheese,Final,,0,4
+H,Jetpack Cats,Flashbacks,Final,,1,3
+H,Pantheon,Nocturnal,Final,,1,3
+H,Miami Yikes,Boop!,Final,,2,1
+H,Delta Threat,Maelstrom,Final,,3,1
+H,Ultraviolet,Venom Cheese,Final,,4,0
+H,Nucular,Get Off My Lan,Final,,4,0

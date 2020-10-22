@@ -30,7 +30,7 @@ with open('startTest.csv') as csv_file:
     for r in lines:
         testData.append([r[1],r[2]])
         #print(r)
-        if int(r[5]) > int(r[6]):
+        if int(r[4]) > int(r[5]):
             testLabel.append([1,0])
         else:
             testLabel.append([0,1])
