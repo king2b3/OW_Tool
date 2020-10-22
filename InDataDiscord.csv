@@ -1,0 +1,378 @@
+Tier,team1,team2,MapType,Map,Team1Score,Team2Score
+D,Barbados,Gamma,Final,,4,0
+D,Lightspeed,Tempest,Control,LIJIANG,2,1
+D,Lightspeed,Tempest,Assault,HANAMURA,1,2
+D,Lightspeed,Tempest,Hybrid,HOLLYWOOD,0,1
+D,Lightspeed,Tempest,Escort,RIALTO,3,2
+D,Lightspeed,Tempest,Control,OASIS,1,2
+D,Lightspeed,Tempest,Final,,2,3
+D,Flying Lions,Heckin Habaneros,Control,OASIS,0,2
+D,Flying Lions,Heckin Habaneros,Assault,VOLSKAYA,3,2
+D,Flying Lions,Heckin Habaneros,Hybrid,KINGS ROW,3,1
+D,Flying Lions,Heckin Habaneros,Escort,RIALTO,2,3
+D,Flying Lions,Heckin Habaneros,Control,LIJIANG,0,2
+D,Flying Lions,Heckin Habaneros,Final,,2,3
+D,Onetricks,Water Esports,Final,,4,0
+D,Countershaded,Tempest,Control,LIJIANG,2,1
+D,Countershaded,Tempest,Assault,HANAMURA,2,1
+D,Countershaded,Tempest,Hybrid,KINGS ROW,1,2
+D,Countershaded,Tempest,Escort,ROUTE 66,5,4
+D,Countershaded,Tempest,Final,,3,1
+D,Barbados,Lightspeed,Control,LIJIANG,2,1
+D,Barbados,Lightspeed,Assault,VOLSKAYA,3,4
+D,Barbados,Lightspeed,Hybrid,KINGS ROW,2,3
+D,Barbados,Lightspeed,Escort,DORADO,3,2
+D,Barbados,Lightspeed,Control,OASIS,1,2
+D,Barbados,Lightspeed,Final,,2,3
+D,Volume Zero,Heckin Habaneros,Control,LIJIANG,1,2
+D,Volume Zero,Heckin Habaneros,Assault,TEMPLE,1,2
+D,Volume Zero,Heckin Habaneros,Hybrid,KINGS ROW,2,3
+D,Volume Zero,Heckin Habaneros,Escort,DORADO,2,3
+D,Volume Zero,Heckin Habaneros,Final,,0,4
+D,Flying Lions,Onetricks,Control,LIJIANG,2,0
+D,Flying Lions,Onetricks,Assault,TEMPLE,2,1
+D,Flying Lions,Onetricks,Hybrid,NUMBANI,2,3
+D,Flying Lions,Onetricks,Escort,RIALTO,3,1
+D,Flying Lions,Onetricks,Final,,3,1
+D,Bird Hawk Society,Tempest,Control,LIJIANG,0,2
+D,Bird Hawk Society,Tempest,Assault,VOLSKAYA,0,1
+D,Bird Hawk Society,Tempest,Hybrid,KINGS ROW,5,4
+D,Bird Hawk Society,Tempest,Escort,RIALTO,1,3
+D,Bird Hawk Society,Tempest,Final,,1,3
+D,Gamma,Lightspeed,Control,OASIS,1,2
+D,Gamma,Lightspeed,Assault,HANAMURA,3,4
+D,Gamma,Lightspeed,Hybrid,KINGS ROW,3,4
+D,Gamma,Lightspeed,Escort,RIALTO,3,2
+D,Gamma,Lightspeed,Final,,1,3
+D,Countershaded,Barbados,Control,LIJIANG,1,2
+D,Countershaded,Barbados,Assault,VOLSKAYA,3,4
+D,Countershaded,Barbados,Hybrid,NUMBANI,3,4
+D,Countershaded,Barbados,Escort,ROUTE 66,3,2
+D,Countershaded,Barbados,Final,,0,3
+D,Heckin Habaneros,Onetricks,Control,LIJIANG,0,2
+D,Heckin Habaneros,Onetricks,Assault,HANAMURA,2,0
+D,Heckin Habaneros,Onetricks,Hybrid,NUMBANI,3,2
+D,Heckin Habaneros,Onetricks,Escort,RIALTO,0,1
+D,Heckin Habaneros,Onetricks,Control,OASIS,1,2
+D,Heckin Habaneros,Onetricks,Final,,2,3
+D,Blinkstrike,Flying Lions,Control,ILIOS,0,2
+D,Blinkstrike,Flying Lions,Assault,VOLSKAYA,3,2
+D,Blinkstrike,Flying Lions,Hybrid,NUMBANI,4,3
+D,Blinkstrike,Flying Lions,Escort,RIALTO,0,3
+D,Blinkstrike,Flying Lions,Control,OASIS,0,2
+D,Blinkstrike,Flying Lions,Final,,2,3
+D,Lightspeed,Bird Hawk Society,Control,LIJIANG,2,0
+D,Lightspeed,Bird Hawk Society,Assault,VOLSKAYA,3,2
+D,Lightspeed,Bird Hawk Society,Hybrid,NUMBANI,2,1
+D,Lightspeed,Bird Hawk Society,Escort,DORADO,1,3
+D,Lightspeed,Bird Hawk Society,Final,,1,3
+D,Tempest,Barbados,Control,OASIS,2,0
+D,Tempest,Barbados,Assault,HANAMURA,2,3
+D,Tempest,Barbados,Hybrid,KINGS ROW,4,3
+D,Tempest,Barbados,Escort,ROUTE 66,2,1
+D,Tempest,Barbados,Final,,3,1
+D,Onetricks,Volume Zero,Control,ILIOS,0,2
+D,Onetricks,Volume Zero,Assault,VOLSKAYA,2,3
+D,Onetricks,Volume Zero,Hybrid,NUMBANI,0,1
+D,Onetricks,Volume Zero,Escort,RIALTO,4,3
+D,Onetricks,Volume Zero,Final,,1,3
+D,Not My Meta,Flying Lions,Control,ILIOS,2,1
+D,Not My Meta,Flying Lions,Assault,TEMPLE,5,6
+D,Not My Meta,Flying Lions,Hybrid,KINGS ROW,2,3
+D,Not My Meta,Flying Lions,Escort,RIALTO,0,3
+D,Not My Meta,Flying Lions,Final,,1,3
+D,Heckin Habaneros,Blinkstrike,Control,LIJIANG,2,0
+D,Heckin Habaneros,Blinkstrike,Assault,VOLSKAYA,2,1
+D,Heckin Habaneros,Blinkstrike,Hybrid,KINGS ROW,3,0
+D,Heckin Habaneros,Blinkstrike,Escort,RIALTO,0,1
+D,Heckin Habaneros,Blinkstrike,Final,,3,1
+D,Bird Hawk Society,Barbados,Control,LIJIANG,1,2
+D,Bird Hawk Society,Barbados,Assault,VOLSKAYA,4,3
+D,Bird Hawk Society,Barbados,Hybrid,KINGS ROW,4,5
+D,Bird Hawk Society,Barbados,Escort,DORADO,3,1
+D,Bird Hawk Society,Barbados,Control,OASIS,2,0
+D,Bird Hawk Society,Barbados,Final,,3,2
+D,Lightspeed,Countershaded,Control,ILIOS,2,1
+D,Lightspeed,Countershaded,Assault,VOLSKAYA,2,1
+D,Lightspeed,Countershaded,Hybrid,NUMBANI,4,3
+D,Lightspeed,Countershaded,Escort,ROUTE 66,2,1
+D,Lightspeed,Countershaded,Final,,4,0
+D,Tempest,Arctic Foxes,Control,LIJIANG,2,1
+D,Tempest,Arctic Foxes,Assault,VOLSKAYA,2,1
+D,Tempest,Arctic Foxes,Hybrid,KINGS ROW,4,3
+D,Tempest,Arctic Foxes,Escort,RIALTO,2,1
+D,Tempest,Arctic Foxes,Final,,3,1
+D,Volume Zero,Flying Lions,Control,ILIOS,1,2
+D,Volume Zero,Flying Lions,Assault,TEMPLE,2,1
+D,Volume Zero,Flying Lions,Hybrid,KINGS ROW,3,2
+D,Volume Zero,Flying Lions,Escort,RIALTO,3,1
+D,Volume Zero,Flying Lions,Final,,3,1
+D,Onetricks,Blinkstrike,Control,LIJIANG,2,0
+D,Onetricks,Blinkstrike,Assault,VOLSKAYA,3,2
+D,Onetricks,Blinkstrike,Hybrid,KINGS ROW,4,3
+D,Onetricks,Blinkstrike,Escort,RIALTO,3,1
+D,Onetricks,Blinkstrike,Final,,4,0
+D,Not My Meta,Heckin Habaneros,Final,,0,4
+D,Lightspeed,Seal Team Spuds,Control,ILIOS,0,2
+D,Lightspeed,Seal Team Spuds,Assault,VOLSKAYA,2,3
+D,Lightspeed,Seal Team Spuds,Hybrid,EICHENWALDE,2,3
+D,Lightspeed,Seal Team Spuds,Escort,DORADO,3,1
+D,Lightspeed,Seal Team Spuds,Final,,1,3
+D,Heckin Habaneros,Prodigious,Control,BUSAN,2,1
+D,Heckin Habaneros,Prodigious,Assault,VOLSKAYA,2,1
+D,Heckin Habaneros,Prodigious,Hybrid,HOLLYWOOD,3,3
+D,Heckin Habaneros,Prodigious,Escort,DORADO,1,0
+D,Heckin Habaneros,Prodigious,Final,,3,0
+D,Joey Esports,Onetricks,Control,NEPAL,0,2
+D,Joey Esports,Onetricks,Assault,HANAMURA,3,3
+D,Joey Esports,Onetricks,Hybrid,EICHENWALDE,3,2
+D,Joey Esports,Onetricks,Escort,WATCHPOINT GIB,2,1
+D,Joey Esports,Onetricks,Final,,2,1
+D,Lightspeed,Prodigious,Control,BUSAN,2,1
+D,Lightspeed,Prodigious,Assault,VOLSKAYA,4,3
+D,Lightspeed,Prodigious,Hybrid,BLIZZARD WORLD,3,1
+D,Lightspeed,Prodigious,Escort,WATCHPOINT GIB,3,0
+D,Lightspeed,Prodigious,Final,,4,0
+D,Seal Team Spuds,Heckin Habaneros,Control,NEPAL,0,2
+D,Seal Team Spuds,Heckin Habaneros,Assault,VOLSKAYA,0,0
+D,Seal Team Spuds,Heckin Habaneros,Hybrid,HOLLYWOOD,2,3
+D,Seal Team Spuds,Heckin Habaneros,Escort,DORADO,2,3
+D,Seal Team Spuds,Heckin Habaneros,Final,,0,3
+D,Onetricks,Ignis,Control,NEPAL,0,2
+D,Onetricks,Ignis,Assault,VOLSKAYA,3,2
+D,Onetricks,Ignis,Hybrid,HOLLYWOOD,2,3
+D,Onetricks,Ignis,Escort,JUNKERTOWN,3,0
+D,Onetricks,Ignis,Control,ILIOS,2,0
+D,Onetricks,Ignis,Final,,3,2
+D,Blinkstrike,VCG Esports,Control,BUSAN,0,2
+D,Blinkstrike,VCG Esports,Assault,VOLSKAYA,2,3
+D,Blinkstrike,VCG Esports,Hybrid,HOLLYWOOD,4,3
+D,Blinkstrike,VCG Esports,Escort,JUNKERTOWN,0,2
+D,Blinkstrike,VCG Esports,Final,,1,3
+D,Heckin Habaneros,Lightspeed,Control,ILIOS,2,0
+D,Heckin Habaneros,Lightspeed,Assault,TEMPLE,3,2
+D,Heckin Habaneros,Lightspeed,Hybrid,HOLLYWOOD,3,1
+D,Heckin Habaneros,Lightspeed,Escort,JUNKERTOWN,2,3
+D,Heckin Habaneros,Lightspeed,Final,,3,1
+D,Prodigious,Seal Team Spuds,Control,ILIOS,1,2
+D,Prodigious,Seal Team Spuds,Assault,VOLSKAYA,1,2
+D,Prodigious,Seal Team Spuds,Hybrid,BLIZZARD WORLD,1,3
+D,Prodigious,Seal Team Spuds,Escort,JUNKERTOWN,1,3
+D,Prodigious,Seal Team Spuds,Final,,0,4
+D,Ignis,Joey Esports,Control,NEPAL,0,2
+D,Ignis,Joey Esports,Assault,HANAMURA,1,2
+D,Ignis,Joey Esports,Hybrid,EICHENWALDE,1,2
+D,Ignis,Joey Esports,Escort,DORADO,3,1
+D,Ignis,Joey Esports,Final,,1,3
+D,Tailwind,Joey Esports,Control,LIJIANG,2,0
+D,Tailwind,Joey Esports,Assault,TEMPLE,1,2
+D,Tailwind,Joey Esports,Hybrid,KINGS ROW,3,1
+D,Tailwind,Joey Esports,Escort,RIALTO,1,0
+D,Tailwind,Joey Esports,Final,,3,1
+D,Praxis,Seal Team Spuds,Control,LIJIANG,2,1
+D,Praxis,Seal Team Spuds,Assault,VOLSKAYA,3,2
+D,Praxis,Seal Team Spuds,Hybrid,KINGS ROW,1,3
+D,Praxis,Seal Team Spuds,Escort,RIALTO,1,0
+D,Praxis,Seal Team Spuds,Final,,3,1
+D,Exodus,Ignis,Control,LIJIANG,2,0
+D,Exodus,Ignis,Assault,VOLSKAYA,1,0
+D,Exodus,Ignis,Hybrid,KINGS ROW,5,4
+D,Exodus,Ignis,Escort,RIALTO,3,2
+D,Exodus,Ignis,Final,,4,0
+D,Dumpster Divers,Battalion,Control,LIJIANG,0,2
+D,Dumpster Divers,Battalion,Assault,VOLSKAYA,1,2
+D,Dumpster Divers,Battalion,Hybrid,HOLLYWOOD,2,3
+D,Dumpster Divers,Battalion,Escort,RIALTO,1,2
+D,Dumpster Divers,Battalion,Final,,0,4
+D,VCG Esports,Prodigious,Control,LIJIANG,0,2
+D,VCG Esports,Prodigious,Assault,VOLSKAYA,0,1
+D,VCG Esports,Prodigious,Hybrid,KINGS ROW,0,1
+D,VCG Esports,Prodigious,Escort,RIALTO,0,1
+D,VCG Esports,Prodigious,Final,,0,4
+D,Seal Team Spuds,Tailwind,Control,LIJIANG,2,1
+D,Seal Team Spuds,Tailwind,Assault,TEMPLE,1,1
+D,Seal Team Spuds,Tailwind,Hybrid,KINGS ROW,5,6
+D,Seal Team Spuds,Tailwind,Escort,RIALTO,2,3
+D,Seal Team Spuds,Tailwind,Final,,1,2
+D,Joey Esports,Aces,Control,ILIOS,1,2
+D,Joey Esports,Aces,Assault,TEMPLE,0,1
+D,Joey Esports,Aces,Hybrid,KINGS ROW,2,3
+D,Joey Esports,Aces,Escort,RIALTO,1,2
+D,Joey Esports,Aces,Final,,0,4
+D,Praxis,Supernova,Control,OASIS,2,0
+D,Praxis,Supernova,Assault,HANAMURA,4,5
+D,Praxis,Supernova,Hybrid,HOLLYWOOD,4,3
+D,Praxis,Supernova,Escort,RIALTO,3,4
+D,Praxis,Supernova,Control,LIJIANG,0,2
+D,Praxis,Supernova,Final,,2,3
+D,Battalion,Exodus,Control,OASIS,1,2
+D,Battalion,Exodus,Assault,TEMPLE,2,3
+D,Battalion,Exodus,Hybrid,KINGS ROW,4,5
+D,Battalion,Exodus,Escort,RIALTO,2,3
+D,Battalion,Exodus,Final,,0,4
+D,Ignis,Prodigious,Control,LIJIANG,1,2
+D,Ignis,Prodigious,Assault,VOLSKAYA,0,1
+D,Ignis,Prodigious,Hybrid,KINGS ROW,0,1
+D,Ignis,Prodigious,Escort,RIALTO,3,4
+D,Ignis,Prodigious,Final,,0,4
+D,Dumpster Divers,VCG Esports,Control,ILIOS,2,0
+D,Dumpster Divers,VCG Esports,Assault,HANAMURA,3,2
+D,Dumpster Divers,VCG Esports,Hybrid,NUMBANI,1,2
+D,Dumpster Divers,VCG Esports,Escort,DORADO,3,1
+D,Dumpster Divers,VCG Esports,Final,,3,1
+D,Tailwind,Aces,Control,LIJIANG,2,1
+D,Tailwind,Aces,Assault,HANAMURA,2,1
+D,Tailwind,Aces,Hybrid,KINGS ROW,5,4
+D,Tailwind,Aces,Escort,ROUTE 66,3,2
+D,Tailwind,Aces,Final,,4,0
+D,Seal Team Spuds,Supernova,Control,OASIS,0,2
+D,Seal Team Spuds,Supernova,Assault,HANAMURA,2,1
+D,Seal Team Spuds,Supernova,Hybrid,KINGS ROW,2,3
+D,Seal Team Spuds,Supernova,Escort,RIALTO,3,2
+D,Seal Team Spuds,Supernova,Control,LIJIANG,2,1
+D,Seal Team Spuds,Supernova,Final,,3,2
+D,Praxis,Joey Esports,Control,LIJIANG,2,1
+D,Praxis,Joey Esports,Assault,HANAMURA,3,2
+D,Praxis,Joey Esports,Hybrid,KINGS ROW,4,5
+D,Praxis,Joey Esports,Escort,RIALTO,0,1
+D,Praxis,Joey Esports,Control,OASIS,2,1
+D,Praxis,Joey Esports,Final,,3,2
+D,Prodigious,Exodus,Control,OASIS,2,1
+D,Prodigious,Exodus,Assault,VOLSKAYA,4,3
+D,Prodigious,Exodus,Hybrid,KINGS ROW,3,2
+D,Prodigious,Exodus,Escort,RIALTO,3,4
+D,Prodigious,Exodus,Final,,3,1
+D,Battalion,VCG Esports,Control,ILIOS,2,1
+D,Battalion,VCG Esports,Assault,HANAMURA,4,3
+D,Battalion,VCG Esports,Hybrid,KINGS ROW,1,0
+D,Battalion,VCG Esports,Escort,ROUTE 66,1,0
+D,Battalion,VCG Esports,Final,,4,0
+D,Ignis,Dumpster Divers,Control,ILIOS,2,0
+D,Ignis,Dumpster Divers,Assault,HANAMURA,2,1
+D,Ignis,Dumpster Divers,Hybrid,KINGS ROW,3,2
+D,Ignis,Dumpster Divers,Escort,RIALTO,0,3
+D,Ignis,Dumpster Divers,Final,,3,1
+D,Tailwind,Supernova,Control,OASIS,2,0
+D,Tailwind,Supernova,Assault,HANAMURA,2,1
+D,Tailwind,Supernova,Hybrid,KINGS ROW,3,2
+D,Tailwind,Supernova,Escort,RIALTO,2,1
+D,Tailwind,Supernova,Final,,4,0
+D,Aces,Praxis,Control,OASIS,2,0
+D,Aces,Praxis,Assault,HANAMURA,2,3
+D,Aces,Praxis,Hybrid,KINGS ROW,4,3
+D,Aces,Praxis,Escort,RIALTO,3,4
+D,Aces,Praxis,Control,LIJIANG,2,0
+D,Aces,Praxis,Final,,3,2
+D,Joey Esports,Seal Team Spuds,Control,LIJIANG,0,2
+D,Joey Esports,Seal Team Spuds,Assault,HANAMURA,0,2
+D,Joey Esports,Seal Team Spuds,Hybrid,KINGS ROW,4,5
+D,Joey Esports,Seal Team Spuds,Escort,RIALTO,1,2
+D,Joey Esports,Seal Team Spuds,Final,,0,4
+D,Exodus,VCG Esports,Control,LIJIANG,2,0
+D,Exodus,VCG Esports,Assault,HANAMURA,1,0
+D,Exodus,VCG Esports,Hybrid,KINGS ROW,1,0
+D,Exodus,VCG Esports,Escort,ROUTE 66,2,1
+D,Exodus,VCG Esports,Final,,4,0
+D,Prodigious,Dumpster Divers,Control,OASIS,2,0
+D,Prodigious,Dumpster Divers,Assault,HANAMURA,4,3
+D,Prodigious,Dumpster Divers,Hybrid,HOLLYWOOD,3,2
+D,Prodigious,Dumpster Divers,Escort,DORADO,3,1
+D,Prodigious,Dumpster Divers,Final,,4,0
+D,Praxis,Tailwind,Control,OASIS,1,2
+D,Praxis,Tailwind,Assault,VOLSKAYA,1,2
+D,Praxis,Tailwind,Hybrid,KINGS ROW,2,3
+D,Praxis,Tailwind,Escort,RIALTO,1,2
+D,Praxis,Tailwind,Final,,0,4
+D,Supernova,Joey Esports,Control,ILIOS,0,2
+D,Supernova,Joey Esports,Assault,HANAMURA,2,1
+D,Supernova,Joey Esports,Hybrid,KINGS ROW,2,3
+D,Supernova,Joey Esports,Escort,RIALTO,1,2
+D,Supernova,Joey Esports,Final,,1,3
+D,Aces,Seal Team Spuds,Control,LIJIANG,2,0
+D,Aces,Seal Team Spuds,Assault,HANAMURA,1,2
+D,Aces,Seal Team Spuds,Hybrid,KINGS ROW,5,4
+D,Aces,Seal Team Spuds,Escort,RIALTO,2,1
+D,Aces,Seal Team Spuds,Final,,3,1
+D,Dumpster Divers,Exodus,Control,OASIS,0,2
+D,Dumpster Divers,Exodus,Assault,HANAMURA,0,1
+D,Dumpster Divers,Exodus,Hybrid,HOLLYWOOD,2,3
+D,Dumpster Divers,Exodus,Escort,RIALTO,1,2
+D,Dumpster Divers,Exodus,Final,,0,4
+D,Prodigious,Battalion,Control,LIJIANG,0,2
+D,Prodigious,Battalion,Assault,VOLSKAYA,2,2
+D,Prodigious,Battalion,Hybrid,KINGS ROW,2,3
+D,Prodigious,Battalion,Escort,RIALTO,3,2
+D,Prodigious,Battalion,Final,,1,2
+D,Tailwind,Volume Zero,Control,ILIOS,0,2
+D,Tailwind,Volume Zero,Assault,VOLSKAYA,0,1
+D,Tailwind,Volume Zero,Hybrid,BLIZZARD WORLD,4,5
+D,Tailwind,Volume Zero,Escort,JUNKERTOWN,0,1
+D,Tailwind,Volume Zero,Final,,0,4
+D,Exodus,Tempest,Control,NEPAL,0,2
+D,Exodus,Tempest,Assault,VOLSKAYA,1,2
+D,Exodus,Tempest,Hybrid,BLIZZARD WORLD,3,2
+D,Exodus,Tempest,Escort,JUNKERTOWN,0,1
+D,Exodus,Tempest,Final,,1,3
+D,Praxis,Flying Lions,Control,ILIOS,1,2
+D,Praxis,Flying Lions,Assault,VOLSKAYA,1,2
+D,Praxis,Flying Lions,Hybrid,HOLLYWOOD,3,2
+D,Praxis,Flying Lions,Escort,WATCHPOINT GIB,2,3
+D,Praxis,Flying Lions,Final,,3,1
+D,Battalion,Barbados,Control,ILIOS,1,2
+D,Battalion,Barbados,Assault,TEMPLE,2,2
+D,Battalion,Barbados,Hybrid,EICHENWALDE,3,1
+D,Battalion,Barbados,Escort,JUNKERTOWN,6,4
+D,Battalion,Barbados,Final,,2,1
+D,Dumpster Divers,Arctic Foxes,Control,NEPAL,1,2
+D,Dumpster Divers,Arctic Foxes,Assault,TEMPLE,4,3
+D,Dumpster Divers,Arctic Foxes,Hybrid,HOLLYWOOD,3,0
+D,Dumpster Divers,Arctic Foxes,Escort,WATCHPOINT GIB,1,0
+D,Dumpster Divers,Arctic Foxes,Final,,3,1
+D,Tailwind,Tempest,Control,NEPAL,2,0
+D,Tailwind,Tempest,Assault,VOLSKAYA,1,0
+D,Tailwind,Tempest,Hybrid,EICHENWALDE,2,1
+D,Tailwind,Tempest,Escort,JUNKERTOWN,3,2
+D,Tailwind,Tempest,Final,,4,0
+D,Volume Zero,Exodus,Control,BUSAN,2,1
+D,Volume Zero,Exodus,Assault,VOLSKAYA,2,3
+D,Volume Zero,Exodus,Hybrid,BLIZZARD WORLD,2,3
+D,Volume Zero,Exodus,Escort,JUNKERTOWN,3,1
+D,Volume Zero,Exodus,Control,ILIOS,0,2
+D,Volume Zero,Exodus,Final,,2,3
+D,Praxis,Barbados,Control,ILIOS,2,1
+D,Praxis,Barbados,Assault,VOLSKAYA,2,4
+D,Praxis,Barbados,Hybrid,EICHENWALDE,3,2
+D,Praxis,Barbados,Escort,JUNKERTOWN,3,4
+D,Praxis,Barbados,Control,NEPAL,2,0
+D,Praxis,Barbados,Final,,3,2
+D,Flying Lions,Battalion,Control,NEPAL,1,2
+D,Flying Lions,Battalion,Assault,TEMPLE,2,0
+D,Flying Lions,Battalion,Hybrid,HOLLYWOOD,4,5
+D,Flying Lions,Battalion,Escort,JUNKERTOWN,4,3
+D,Flying Lions,Battalion,Control,BUSAN,1,2
+D,Flying Lions,Battalion,Final,,2,3
+D,Supernova,Arctic Foxes,Control,ILIOS,2,1
+D,Supernova,Arctic Foxes,Assault,VOLSKAYA,2,1
+D,Supernova,Arctic Foxes,Hybrid,HOLLYWOOD,3,2
+D,Supernova,Arctic Foxes,Escort,WATCHPOINT GIB,3,2
+D,Supernova,Arctic Foxes,Final,,4,0
+D,Tailwind,Exodus,Control,NEPAL,2,0
+D,Tailwind,Exodus,Assault,VOLSKAYA,2,1
+D,Tailwind,Exodus,Hybrid,EICHENWALDE,2,3
+D,Tailwind,Exodus,Escort,JUNKERTOWN,3,1
+D,Tailwind,Exodus,Final,,3,1
+D,Praxis,Battalion,Control,NEPAL,2,0
+D,Praxis,Battalion,Assault,VOLSKAYA,2,3
+D,Praxis,Battalion,Hybrid,EICHENWALDE,3,1
+D,Praxis,Battalion,Escort,DORADO,2,1
+D,Praxis,Battalion,Final,,3,1
+D,Barbados,Flying Lions,Control,ILIOS,1,2
+D,Barbados,Flying Lions,Assault,VOLSKAYA,3,2
+D,Barbados,Flying Lions,Hybrid,EICHENWALDE,3,1
+D,Barbados,Flying Lions,Escort,JUNKERTOWN,2,1
+D,Barbados,Flying Lions,Final,,3,1
+D,Supernova,Dumpster Divers,Control,BUSAN,0,2
+D,Supernova,Dumpster Divers,Assault,HANAMURA,2,0
+D,Supernova,Dumpster Divers,Hybrid,HOLLYWOOD,1,0
+D,Supernova,Dumpster Divers,Escort,WATCHPOINT GIB,3,2
+D,Supernova,Dumpster Divers,Final,,3,1
