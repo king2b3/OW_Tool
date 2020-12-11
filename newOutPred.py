@@ -19,24 +19,15 @@ tf.set_random_seed(RANDOM_SEED)
 
 
 def get_tranq_data():
+    ''' Reads in data from tranq output files for match prediction
     '''
-        Reads in data from tranq output files for match prediction
-    '''
-    '''
-    import csv
-    dataFile = open("trainX.csv")
-    trainX = dataFile.readlines()
-    dataFile = open("trainY.csv")
-    trainY = dataFile.readlines()
-    '''
+
     import pickle as pkl
     import numpy as np
     trainX = np.array(pkl.load( open("trainX.pkl", "rb" ) ))
     trainY = np.array(pkl.load( open("trainY.pkl", "rb" ) ))
 
     return trainX, trainY
-
-
 
 
 def main():
